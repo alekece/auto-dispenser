@@ -1,0 +1,9 @@
+[submodule "lib/Blynk"]
+	path = lib/Blynk
+	url = https://github.com/blynkkk/blynk-library
+[submodule "lib/Time"]
+	path = lib/Time
+	url = https://github.com/PaulStoffregen/Time
+[submodule "lib/HX711"]
+	path = lib/HX711
+	url = https://github.com/bogde/HX711
